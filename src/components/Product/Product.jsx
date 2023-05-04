@@ -9,7 +9,7 @@ const Product = ({ product, handleAddToCart }) => {
         <div className='product'>
             <img src={img} alt="" />
             <div className='product-info'>
-                <h6>{name} edited</h6>
+                <h6>{name}</h6>
                 <p>Price: ${price}</p>
                 <p>Manufacturer: {seller}</p>
                 <p>Rating: {ratings}</p>

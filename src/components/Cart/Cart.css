@@ -1,0 +1,14 @@
+.cart {
+    background: rgba(255, 153, 0, 0.3);
+    padding: 20px;
+    border-radius: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.cart h4 {
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: underline;
+}
